@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @danillacarmo
-- 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning Java Full Stack
+- 👀 I’m interested in Java
+- 🌱 I’m currently learning Java Back End
 - 💞️ I’m looking to collaborate and learning
 - 📫 How to reach me https://br.linkedin.com/in/danilla-carmo-418465179
 
